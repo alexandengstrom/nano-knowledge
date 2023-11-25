@@ -1,4 +1,5 @@
-# Nano Knowledge
+![nano-knowledge](https://github.com/alexandengstrom/nano-knowledge/assets/123507241/8fe7f4b8-4018-41f3-82a2-f968d6085849)
+
 
 Nano Knowledge is a small and interesting Python script designed to automate the creation of podcast episodes. It's a simple yet functional tool that leverages the OpenAI GPT model to generate podcast scripts and then uses the ElevenLabs API to convert these scripts into speech.
 
